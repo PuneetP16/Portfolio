@@ -228,6 +228,11 @@ div .blog-head {
   margin-bottom: 0.5rem;
 }
 
+.quotes {
+  text-align: center;
+  font-size: 1.6rem;
+  color:darkcyan;
+}
 
 .contact-me {
   background-color:#FEE2E2;
