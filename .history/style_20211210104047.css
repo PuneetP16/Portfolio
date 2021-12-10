@@ -60,6 +60,7 @@ hr {
   font-size: 2rem;
   margin: auto;
   text-align: center;
+  padding-right: 550px;
 }
 
 /** Lists **/
@@ -117,7 +118,7 @@ hr {
 }
 
 .hero .hero-img {
-  max-width: 250px;
+  max-width: 350px;
   display: block;
   margin: auto;
 }
